@@ -23,5 +23,5 @@ func main() {
 	input := "ab"
 	output := solution(input)
 	fmt.Println("output is ", output)
-
 }
+
